@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">View Page</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_student">Hello Student</string>
+    <string name="Home">home</string>
+    <string name="Game">game</string>
+    <string name="setting">setting</string>
+</resources>
