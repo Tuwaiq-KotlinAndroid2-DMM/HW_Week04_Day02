@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SlidingMenu</string>
+    <string name="game">Free Play</string>
+    <string name="home">Home</string>
+    <string name="Setting">Settings</string>
+    <string name="app_title">Mini Drawer</string>
+</resources>
