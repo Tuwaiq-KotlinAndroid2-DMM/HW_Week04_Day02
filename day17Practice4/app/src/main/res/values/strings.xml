@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InstaTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username_hint">sarahA</string>
+    <string name="_0_likes_hint">150 likes</string>
+    <string name="username_comment_hint">sarahA a dummy img with dummy data</string>
+    <string name="view_all_0_comments_hint">View all 15 comments</string>
+    <string name="_1_days_ago_hint">2 days ago</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="posts_hint">55</string>
+    <string name="posts">Posts</string>
+    <string name="followers_hint">45</string>
+    <string name="followers">Followers</string>
+    <string name="following_hint">30</string>
+    <string name="following">Following</string>
+</resources>
