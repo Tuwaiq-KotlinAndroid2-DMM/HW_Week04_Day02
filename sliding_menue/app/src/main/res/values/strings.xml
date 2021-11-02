@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sliding_menue</string>
+    <string name="game">Free Games</string>
+    <string name="Home">Home</string>
+    <string name="Setting">Setting</string>
+    <string name="Settings">Settings</string>
+    <string name="Game">Game</string>
+</resources>
